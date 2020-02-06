@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_colors" translatable="false">"ألوان"</string>
+    <string name="category_family">اعضاء العالة</string>
+    <string name="category_numbers">ارقام</string>
+    <string name="category_phrases">العبارات</string>
+</resources>
