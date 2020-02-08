@@ -4,4 +4,14 @@
     <string name="category_family">اعضاء العالة</string>
     <string name="category_numbers">ارقام</string>
     <string name="category_phrases">العبارات</string>
+    <string name="category_numbers_1">واحد</string>
+    <string name="category_numbers_2">اثنين</string>
+    <string name="category_numbers_3">ثلاثة</string>
+    <string name="category_numbers_4">اربعة</string>
+    <string name="category_numbers_5">خمسة</string>
+    <string name="category_numbers_6">ستة</string>
+    <string name="category_numbers_7">سبعة</string>
+    <string name="category_numbers_8">ثمانية</string>
+    <string name="category_numbers_9">تسعة</string>
+    <string name="category_numbers_ten">عشرة</string>
 </resources>
